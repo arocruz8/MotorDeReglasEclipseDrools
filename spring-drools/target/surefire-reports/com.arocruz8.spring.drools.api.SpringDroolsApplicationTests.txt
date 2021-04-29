@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.arocruz8.spring.drools.api.SpringDroolsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.899 s - in com.arocruz8.spring.drools.api.SpringDroolsApplicationTests
