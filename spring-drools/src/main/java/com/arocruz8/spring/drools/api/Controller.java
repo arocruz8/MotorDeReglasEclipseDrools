@@ -1,4 +1,4 @@
-package com.javatechie.spring.drools.api;
+package com.arocruz8.spring.drools.api;
 
 import org.kie.api.runtime.KieSession;
 import org.springframework.beans.factory.annotation.Autowired;

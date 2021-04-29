@@ -1,5 +1,5 @@
 package KieRule;
-import com.javatechie.spring.drools.api.Order;
+import com.arocruz8.spring.drools.api.Order;
 
 rule "BancoNacional"
 
