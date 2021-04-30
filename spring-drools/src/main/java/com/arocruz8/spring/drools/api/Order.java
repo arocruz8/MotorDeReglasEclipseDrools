@@ -4,7 +4,7 @@ public class Order {
 
 	private String name;
 	private String cardType;
-	private int discount;
+	private float discount;
 	private int price;
 
 	public String getName() {
@@ -23,11 +23,11 @@ public class Order {
 		this.cardType = cardType;
 	}
 
-	public int getDiscount() {
+	public float getDiscount() {
 		return discount;
 	}
 
-	public void setDiscount(int discount) {
+	public void setDiscount(float discount) {
 		this.discount = discount;
 	}
 
@@ -41,9 +41,8 @@ public class Order {
 
 	@Override
 	public String toString() {
-		return "Order [name=" + name + ", cardType=" + cardType + ", discount=" + discount + ", price=" + price + "]";
+		return "Order [name=" + name + ", cardType=" + cardType + ", discount= %" + discount + ", price=" + price + "]";
 	}
-	
-	
+
 
 }
